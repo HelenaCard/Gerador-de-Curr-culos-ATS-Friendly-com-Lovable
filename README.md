@@ -1,24 +1,5 @@
 # CV Match AI
 
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}Seu currículo alinhado às oportunidades
-certas.`</strong>`{=html}`<br>`{=html} Plataforma inteligente para
-comparar currículos com vagas de emprego e gerar versões otimizadas para
-sistemas ATS.
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/status-MVP%20em%20desenvolvimento-3478F6" alt="Status: MVP em desenvolvimento">`{=html}
-`<img src="https://img.shields.io/badge/interface-responsiva-142B4A" alt="Interface responsiva">`{=html}
-`<img src="https://img.shields.io/badge/idioma-Portugu%C3%AAs-green" alt="Idioma: Português">`{=html}
-```{=html}
-</p>
-```
 ## Sobre o projeto
 
 O **CV Match AI** é uma aplicação web que utiliza inteligência
